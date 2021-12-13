@@ -15,7 +15,7 @@
 
 ### Ejecución
 
-**Si se va a hacer una ejecución local, es necesario crear la db "ml_shipping" en postgres**
+**Si se va a hacer una ejecución local, es necesario crear la db "ml_shipping" en postgres y ejecutar el archivo schema.sql para crear la tabla.**
 
 Clonar el repositorio: **git clone** https://github.com/alexvegadev/shipping-golang.git
 
